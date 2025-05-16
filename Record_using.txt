@@ -1,0 +1,4 @@
+git status           # see what changed
+git add file.py      # or git add .
+git commit -m "Describe your change"
+git push             # upload to GitHub
