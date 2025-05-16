@@ -23,3 +23,9 @@ deepxde/_version.py
 
 # PyCharm
 .idea/
+
+# macOS system files
+.DS_Store
+
+# Data folders
+examples/operator/data/
